@@ -15,3 +15,5 @@ permalink: LINKS/
   A 7+ hours complete Linux Course that will make you go from zero to hero
 * [Learn Regex](https://youtu.be/bgBWp9EIlMM){:target="_blank"} ---
   Watch this 15 minute video to learn about regular expressions (Regex)
+* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc){:target="_blank"} ---
+  A 4 hours crash course to Cyber Security
