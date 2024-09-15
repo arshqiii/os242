@@ -29,3 +29,5 @@ ZCZC W02 15 L15 Assignment #05
 ZCZC W02 15 L16 Assignment #06
 ZCZC W02 20 L17 Assignment #07
 ZCZC W02 20 L64 Helping a friend (OS related problem)
+ZCZC W02 20 L24 Scripting in general
+ZCZC W02 15 L40 TXT/ related in general.
