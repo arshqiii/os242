@@ -26,3 +26,9 @@ permalink: LINKS/
   This video introduces the directories of Linux and is good for beginners
 * [What is a Virtual Disk](https://www.techtarget.com/searchvirtualdesktop/definition/virtual-hard-disk-VHD) ---
   This site explains what a virtual disk is and its type
+* [How to securely copy files using scp command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) ---
+  This site explains how to secure copy files from local to remote and vice verse
+* [C Introduction](https://www.w3schools.com/c/c_intro.php) ---
+  This tutorial will teach you the very basics of C.
+* [Difference between Linux & Unix](https://byjus.com/gate/difference-between-unix-and-linux/#:~:text=Basic%20Definition-,Linux%20is%20an%20open%2Dsource%20operating%20system.,the%20user%20and%20the%20computer.) ---
+  This site explains some major differences between linux and unix.
