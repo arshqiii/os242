@@ -60,3 +60,18 @@ ZCZC W04 10 L25 C-language including Make.
 ZCZC W04 05 L41 TXT/mylog.txt related.
 ZCZC W04 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 15 L15 Assignment #05
+ZCZC W05 10 L00 General, etc.
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 100 L70 Studying for other courses
+ZCZC W05 400 L29 OS Shoping related: buy a laptop, flashdisk, etc.
+ZCZC W05 30 L09 Assignment in General
+ZCZC W05 10 L11 Assignment #01
+ZCZC W05 10 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 10 L14 Assignment #04
+ZCZC W05 30 L25 C-language including Make.
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 20 L40 TXT/ related in general.
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 20 L15 Assignment #06

@@ -32,3 +32,9 @@ permalink: LINKS/
   This tutorial will teach you the very basics of C.
 * [Difference between Linux & Unix](https://byjus.com/gate/difference-between-unix-and-linux/#:~:text=Basic%20Definition-,Linux%20is%20an%20open%2Dsource%20operating%20system.,the%20user%20and%20the%20computer.) ---
   This site explains some major differences between linux and unix.
+* [Scripting cheetsheet](https://devhints.io/bash)---
+  This site provides a cheatsheet into simplifying scripting.
+* [Pointers in C](https://www.guru99.com/c-pointers.html) ---
+  This site gives insight about pointers in C language
+* [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---
+  This site explains what a virtual memory is, how it works, its benefits, and etc
