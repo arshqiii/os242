@@ -75,3 +75,15 @@ ZCZC W05 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 20 L40 TXT/ related in general.
 ZCZC W05 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 20 L15 Assignment #06
+ZCZC W06 10 L00 General, etc.
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 100 L70 Studying for other courses.
+ZCZC W06 10 L11 Assignment #01
+ZCZC W06 10 L12 Assignment #02
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 10 L14 Assignment #04
+ZCZC W06 20 L22 Linux CLI including tar, etc.
+ZCZC W06 15 L25 C-language including Make.
+ZCZC W06 10 L41 TXT/mylog.txt related.
+ZCZC W06 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 15 L15 Assignment #05

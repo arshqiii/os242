@@ -11,3 +11,6 @@ ZCZC W04 FasiIkom
 ZCZC W05 Priyapta
 ZCZC W05 poemich
 ZCZC W05 nobeljb
+ZCZC W06 zufarra
+ZCZC W06 syauqiyasman
+ZCZC W06 MaulRai

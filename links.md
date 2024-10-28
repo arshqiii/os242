@@ -38,3 +38,9 @@ permalink: LINKS/
   This site gives insight about pointers in C language
 * [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---
   This site explains what a virtual memory is, how it works, its benefits, and etc
+* [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) ---
+  The following article discusses about Process in terms of OS and how it differs from Program
+* [Fork Syscall in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) ---
+  The following site explains about the fork() syscall and how it works
+* [Multi Threading Models](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) ---
+  The following site explains further about multi threading models
