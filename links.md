@@ -44,3 +44,9 @@ permalink: LINKS/
   The following site explains about the fork() syscall and how it works
 * [Multi Threading Models](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) ---
   The following site explains further about multi threading models
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+  The following article explains about process synchronization, enjoy
+* [Deadlock??!!](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+  The Article above elaborates about deadlocks in operating system and how it occurs
+* [Semaphore and how they work](https://www.youtube.com/watch?v=ukM_zzrIeXs) ---
+  The video provides some insight into how semaphore works, and an example of where you could use semaphores to coordinate different processes.

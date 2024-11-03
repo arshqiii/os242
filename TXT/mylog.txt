@@ -87,3 +87,15 @@ ZCZC W06 15 L25 C-language including Make.
 ZCZC W06 10 L41 TXT/mylog.txt related.
 ZCZC W06 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W06 15 L15 Assignment #05
+ZCZC W07 10 L00 General, etc.
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 100 L70 Studying for other courses.
+ZCZC W07 10 L11 Assignment #01
+ZCZC W07 10 L11 Assignment #02
+ZCZC W07 10 L11 Assignment #03
+ZCZC W07 20 L25 C-language including Make.
+ZCZC W07 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 30 L86 House chore
+ZCZC W07 10 L41 TXT/mylog.txt related.
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 10 L11 Assignment #04
