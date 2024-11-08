@@ -50,3 +50,9 @@ permalink: LINKS/
   The Article above elaborates about deadlocks in operating system and how it occurs
 * [Semaphore and how they work](https://www.youtube.com/watch?v=ukM_zzrIeXs) ---
   The video provides some insight into how semaphore works, and an example of where you could use semaphores to coordinate different processes.
+* [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) ---
+  The playlist above is by Kernotex which goes through the steps in doing Linux From Scratch
+* [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/view/12.2/) ---
+  The book provides steps on building a Linux System from Scratch
+* [Process Schedulers](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/) ---
+  The Article above elaborates about Schedulers in Operating System and how fundemental they are
